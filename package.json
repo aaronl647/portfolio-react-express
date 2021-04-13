@@ -1,0 +1,14 @@
+{
+  "name": "emailServer",
+  "version": "1.0.0",
+  "description": "Email for portfolio page",
+  "main": "server.js",
+  "author": "Aaron Lei",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "nodemailer": "^6.5.0"
+  }
+}
